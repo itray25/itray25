@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Py/JS/HTML/C++
 - 🤔 I’m looking for help with NodeJS
 - 💬 Ask me about basic questions that's in my range of knowledge
-- 📫 How to reach me: email to 3573468655@qq.com
+- 📫 How to reach me: email to gugeyonghu2048@gmail.com
 - ⚡ Fun fact: I'm a clown/joker
 
 
